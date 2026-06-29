@@ -1,5 +1,5 @@
 # Social-Media-Engagement-Virality-Analytics
-Analyze social media content performance across platforms using Python, Pandas, Matplotlib, and Seaborn. Discover factors influencing engagement, audience retention, reach, and virality through data-driven insights and visualizations.
+Analyze Social media content performance across platforms using Python, Pandas, Matplotlib, and Seaborn. Discover factors influencing engagement, audience retention, reach, and virality through data-driven insights and visualizations.
 
 ### Overview
 - This project explores social media performance data to understand the factors that influence audience engagement, content reach, retention, and virality. Through comprehensive Exploratory Data Analysis (EDA), the project uncovers patterns in user interactions such as views, likes, comments, shares, saves, and watch time.
